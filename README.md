@@ -1,1 +1,28 @@
-yeah
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSCE 190: Xavier Thomas</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>Xavier Thomas</h1>
+        <p>This webpage is for CSCE 190!</p>
+    </body>
+</html>
+
+<body>
+<h1>Xavier Thomas</h1>
+<div class="about">
+    <h2>About me</h2>
+    <p>My mission is to make the internet a better place for everyone. I want to try my best to make the internet safe and
+accessible (or do as much as I can to do so!)</p>
+</div>
+<div class="skills">
+    <h2>Skills</h2>
+</div>
+<div class="projects">
+    <h2>Highlighted projects</h2>
+</div>
+<div class="contact"><h2>Contact me</h2>
+</div>
+</body>
